@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Assignment Questions
+    url: https://github.com/rhodyprog4ds/BrownFall21/issues
+    about: Please ask general questions that might be helpful to your peers here
+  - name: E-mail TA
+    url: mailto:beibhinn@uri.edu
+    about: use this to ask Beibhinn for assistance privately
+  - name: E-mail Professor Brown
+    url: mailto:brownsarahm@uri.edu
+    about: use this to ask Professor Brown for assistance privately
+  - name: Visit office hours for real time help
+    url: https://brightspace.uri.edu/d2l/le/calendar/101136
+    about: see the office hours and zoom links on Brightspace
